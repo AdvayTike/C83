@@ -1,0 +1,27 @@
+body {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+#myCanvas {
+    border-width: 5px;
+    border-style: ridge;
+    background-color: white;
+}
+
+#clear {
+    background-color: blueviolet;
+    width: 70px;
+    height: 40px;
+    font-size: 10;
+}
+
+#clear:hover {
+    background-color: red;
+    width: 100px;
+    height: 60px;
+    font-size: 15;
+}
